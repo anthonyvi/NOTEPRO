@@ -1,0 +1,16 @@
+{
+  "name": "NotePro",
+  "short_name": "NotePro",
+  "start_url": "./NotePro.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2383e2",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
