@@ -1,7 +1,7 @@
 {
   "name": "NotePro",
   "short_name": "NotePro",
-  "start_url": "./NotePro.html",
+  "start_url": ""start_url": "./index.html",",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2383e2",
